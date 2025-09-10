@@ -16,3 +16,17 @@ Clone the repo and install the required dependencies:
 git clone https://github.com/Kenkai993/MNIST-CUDA-CNN.git
 cd MNIST-CUDA-CNN
 pip install -r requirements.txt
+
+Usage
+Run the Jupyter Notebook in VS Code or Jupyter Lab: jupyter notebook CNN_MNIST_Gradcam.ipynb
+
+
+Results
+Confusion Matrix (example output on MNIST test set) Grad-CAM (model focus for digit “7”)
+
+
+ Motivation
+As a Radiology Technologist preparing for a Master’s in Digital Healthcare, I built this project to practice: Implementing CNNs on image data Using explainability tools like Grad-CAM Preparing for future projects such as pneumonia classification from chest X-rays
+
+
+ Author:Stanisljevic Milos  Date: 10.09.2025
